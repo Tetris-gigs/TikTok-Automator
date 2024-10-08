@@ -11,7 +11,6 @@
     TikTok automator using zefoy.com for <b>followers, views, likes, shares and more</b>
     <br />
     <br />
-    <a href="https://discord.gg/KRjZ58MfDD">Join New Discord Server</a>
     ·
     <a href="https://github.com/useragents/Zefoy-TikTok-Automator/issues">Report Bugs</a>
     
